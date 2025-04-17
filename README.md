@@ -3,7 +3,7 @@
 music player built with Python, featuring a clean interface with the Catppuccin Mocha color scheme.
 
 ### 🏠 Homepage
-![Player](screenshots/python_music_player.png)
+![Player](Screenshot/python_music_player.png)
 
 ## Features
 
